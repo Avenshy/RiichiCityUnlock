@@ -30,5 +30,12 @@
 - [ ] 支持保存装扮方案
 - [ ] TODO……
 
+## 🧐使用说明
+1. 下载并解压
+2. 运行`run.exe`
+3. 打开代理软件（如[Proxifier](https://www.proxifier.com/)）
+4. 将一番街程序加入代理，代理地址为 `127.0.0.1` ，端口 `41110`
+5. 启动游戏
+   
 ## ⏬下载地址
 [Releases](https://github.com/Avenshy/RiichiCityUnlock/releases/latest) 
