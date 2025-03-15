@@ -86,7 +86,7 @@
 
 ### 🤔如何捐赠&使用
 1. 在[爱发电为作者发电](https://afdian.com/a/Avenshy)
-2. 点击右上角头像进入** 我的主页 **
+2. 点击右上角头像进入 **我的主页**
 3. 查看当前浏览器地址，复制`/u/`后面的用户id。例如当前地址为 `https://afdian.com/u/adf397fe8374811eaacee52540025c377` ，则复制 `adf397fe8374811eaacee52540025c377` 这一串
 4. 进入RiichiCityUnlock程序文件夹，找到 `/config/settings.yaml` 文件，将 `id: free` 中的 `free` 修改为刚刚复制的用户id
 5. 保存并关闭，启动RiichiCityUnlock
