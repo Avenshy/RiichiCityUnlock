@@ -63,22 +63,23 @@
 目前本程序所使用到的前两位id和对应关系，如下表所示：
 | ID | NAME_ENG        | NAME_CHN          |
 |:--:|------------------|-------------------|
-| 13 | RiichiStick     | 立直棒            |
-| 14 | CardBack        | 牌背              |
-| 15 | Tablecloth      | 桌布              |
-| 16 | SpecialEffect   | 特效              |
-| 17 | LiZhiEffect     | 立直特效          |
-| 18 | HallBGM         | 大厅BGM           |
-| 19 | RankBGM         | 段位战BGM         |
-| 20 | LZBGM           | 段位战BGM         |
-| 24 | SceneEffect     | 场景特效          |
-| 25 | HallBg          | 大厅背景          |
-| 26 | CardFace        | 牌面             |
-| 30 | AvatarFrame     | 头像框            |
-| 36 | TableEdge       | 牌桌边框          |
-| 37 | PersonalHead    | 个人头像          |
-| 38 | Gallery         | 画廊背景          |
-| 39 | TableHand       | 牌桌手            |
+| 13 | RiichiStick      | 立直棒            |
+| 14 | CardBack         | 牌背              |
+| 15 | Tablecloth       | 桌布              |
+| 16 | SpecialEffect    | 特效              |
+| 17 | LiZhiEffect      | 立直特效          |
+| 18 | HallBGM          | 大厅BGM           |
+| 19 | RankBGM          | 段位战BGM         |
+| 20 | LZBGM            | 段位战BGM         |
+| 24 | SceneEffect      | 场景特效          |
+| 25 | HallBg           | 大厅背景          |
+| 26 | CardFace         | 牌面             |
+| 30 | AvatarFrame      | 头像框            |
+| 36 | TableEdge        | 牌桌边框          |
+| 37 | PersonalHead     | 个人头像          |
+| 38 | Gallery          | 画廊背景          |
+| 39 | TableHand        | 牌桌手            |
+| 40 | TableButtonStyle | 牌桌按钮样式      |
 
 ### 😘如何定价
 1. 暂定10元/月（按31天算），根据金额计算时长
